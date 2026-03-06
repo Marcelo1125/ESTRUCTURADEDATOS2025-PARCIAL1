@@ -1,0 +1,14 @@
+C:\Users\MARCELO\deportistas\bin\Debug\net10.0\deportistas.exe
+C:\Users\MARCELO\deportistas\bin\Debug\net10.0\deportistas.deps.json
+C:\Users\MARCELO\deportistas\bin\Debug\net10.0\deportistas.runtimeconfig.json
+C:\Users\MARCELO\deportistas\bin\Debug\net10.0\deportistas.dll
+C:\Users\MARCELO\deportistas\bin\Debug\net10.0\deportistas.pdb
+C:\Users\MARCELO\deportistas\obj\Debug\net10.0\deportistas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCELO\deportistas\obj\Debug\net10.0\deportistas.AssemblyInfoInputs.cache
+C:\Users\MARCELO\deportistas\obj\Debug\net10.0\deportistas.AssemblyInfo.cs
+C:\Users\MARCELO\deportistas\obj\Debug\net10.0\deportistas.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\deportistas\obj\Debug\net10.0\deportistas.dll
+C:\Users\MARCELO\deportistas\obj\Debug\net10.0\refint\deportistas.dll
+C:\Users\MARCELO\deportistas\obj\Debug\net10.0\deportistas.pdb
+C:\Users\MARCELO\deportistas\obj\Debug\net10.0\deportistas.genruntimeconfig.cache
+C:\Users\MARCELO\deportistas\obj\Debug\net10.0\ref\deportistas.dll
